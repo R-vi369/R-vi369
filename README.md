@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r-vi369&label=Profile%20views&color=0e75b6&style=flat" alt="r-vi369" /> </p>
 
-- 🔭 I’m currently working on [Linkedin_clone](https://github.com/R-vi369/linkedin_project.git)
+<!-- - 🔭 I’m currently working on [Linkedin_clone](https://github.com/R-vi369/linkedin_project.git) -->
 
-- 🌱 I’m currently learning **React.js, Redux, Next,js**
+- 🌱 I’m currently learning     **React.js, Redux, Next,js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
